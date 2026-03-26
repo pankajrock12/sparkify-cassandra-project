@@ -1,3 +1,0 @@
-artist,firstName,gender,itemInSession,lastName,length,level,location,sessionId,song,userId
-Artist1,John,M,1,Doe,200.0,free,NY,101,Song1,10
-Artist2,Jane,F,2,Smith,250.5,paid,LA,102,Song2,20
